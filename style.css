@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/2b/6a/cb/2b6acb371db0758f43059e18f2d7e2af.jpg");
+}
+
+.Best {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(57, 178, 248, 0.959);
+}
+
+#title-navbar {
+    font-family: Haettenschweiler;
+    color: darkslateblue;
+}
